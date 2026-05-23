@@ -47,3 +47,8 @@ This project analyzes Amazon Prime Video content using Power BI to identify tren
 ##  Snapshot
 
 ![Dashboard Snapshot](https://github.com/user-attachments/assets/6cab1b09-42b5-40d9-a0bd-1c1d65fa12e3)
+
+##  Author
+- Your Name - Mani Kaur
+- LinkedIn Profile: [Mani Kaur](https://www.linkedin.com/in/mani-kaur9857)
+- GitHub Profile: [GitHub](https://github.com/Mani-Kaur)
